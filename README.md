@@ -101,8 +101,7 @@ No external libraries needed — uses Python's built-in sqlite3 only.
 
 This is a learning project built as a fresher. It runs locally via CLI 
 and uses SQLite which is not meant for multi-user or large-scale use. 
-There is no authentication, no web interface, and no network integration. 
-These are natural next steps as I continue learning.
+Authentication and a web interface are intentional next steps — the current focus is on clean data modeling, relational database design, and OOP fundamentals.
 
 ---
 
